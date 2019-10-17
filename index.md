@@ -1,10 +1,7 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: Bioinformatics Today
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
-
-
+Your own BioInfo daylies
